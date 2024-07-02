@@ -9,7 +9,7 @@ Hello there! I'm Chaima Naouali, an IT engineering student deeply passionate abo
 
 * ✉️  You can contact me at [chaima.naouali@esprit.tn](mailto:chaima.naouali@esprit.tn)
 * 🚀  I'm currently working on [Django assurance](http://github.com/chaimanaouali/Django_Assurance/settings)
-* 🧠  I'm learning JavaFX , Angular , MongoDB
+* 🧠  I'm learning JavaFX , Angular , MongoDB , spring
 * 🤝  I'm open to collaborating on Any type of projects and challenges
 
 ### Skills
