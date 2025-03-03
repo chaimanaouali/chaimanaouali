@@ -8,7 +8,7 @@ Hello there! I'm Chaima Naouali, an IT engineering student deeply passionate abo
 
 
 * ✉️  You can contact me at [chaima.naouali@esprit.tn](mailto:chaima.naouali@esprit.tn)
-* 🔭 I’m currently working on [Gestion employee](https://github.com/chaimanaouali/TacheEmploye)
+* 🔭 I’m currently working on [Smart Hire](https://github.com/chaimanaouali/SmartHire.git)
 * 🧠  I'm learning **JavaScript Frameworks**
 * 🤝  I'm open to collaborating on Any type of projects and challenges
 
